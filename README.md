@@ -19,4 +19,3 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats-minhna1112.vercel.app/api/top-langs/?username=minhna1112&theme=gotham&hide=jupyter%20notebook)]
 
-[![Extra pins](https://github-readme-stats-minhna1112.vercel.app/api/pin/?username=minhna1112&repo=multi-agent-colcomp)]
