@@ -17,4 +17,6 @@ Here are some ideas to get you started:
 
 ![Minh Nguyen's GitHub stats](https://github-readme-stats-minhna1112.vercel.app/api?username=minhna1112&show_icons=true\&theme=gotham\&show=prs_merged,prs_merged_percentage)
 
-[![Top Langs](https://github-readme-stats-minhna1112.vercel.app/api/top-langs/?username=minhna1112&theme=gotham&hide=jupyter%20notebook)](https://github.com/minhna1112/github-readme-stats)
+[![Top Langs](https://github-readme-stats-minhna1112.vercel.app/api/top-langs/?username=minhna1112&theme=gotham&hide=jupyter%20notebook)]
+
+[![Extra pins](https://github-readme-stats-minhna1112.vercel.app/api/pin/?username=minhna1112&repo=multi-agent-colcomp)]
