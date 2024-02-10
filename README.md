@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Minh Nguyen's GitHub stats](https://github-readme-stats-minhna1112.vercel.app/api?username=minhna1112&show_icons=true\&theme=gotham)
+![Minh Nguyen's GitHub stats](https://github-readme-stats-minhna1112.vercel.app/api?username=minhna1112&show_icons=true\&theme=gotham\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
