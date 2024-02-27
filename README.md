@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Minh Nguyen's GitHub stats](https://github-readme-stats-minhna1112.vercel.app/api?username=minhna1112&show_icons=true\&theme=gotham\&show=prs_merged,prs_merged_percentage)
+![Minh Nguyen's GitHub stats](https://github-readme-stats-minhna1112.vercel.app/api?username=minhna1112&show_icons=true\&theme=noctis_minimus\&show=prs_merged,prs_merged_percentage)
 
-![Top Langs](https://github-readme-stats-minhna1112.vercel.app/api/top-langs/?username=minhna1112&theme=gotham&hide=jupyter%20notebook)
+![Top Langs](https://github-readme-stats-minhna1112.vercel.app/api/top-langs/?username=minhna1112&theme=noctis_minimus&hide=jupyter%20notebook)
 
